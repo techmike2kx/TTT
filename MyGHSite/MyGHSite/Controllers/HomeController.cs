@@ -10,7 +10,7 @@ namespace MyGHSite.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "Home is no longer 127.0.0.1 :-) ";
 
             return View();
         }
