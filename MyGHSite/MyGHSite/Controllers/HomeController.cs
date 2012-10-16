@@ -10,7 +10,7 @@ namespace MyGHSite.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Home is no longer 127.0.0.1 :-) ";
+            ViewBag.Message = "Set Your text here.) ";
 
             return View();
         }
