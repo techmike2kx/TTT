@@ -10,7 +10,7 @@ namespace MyGHSite.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Set Your text here.) ";
+            ViewBag.Message = "Set Your homepage text here.) ";
 
             return View();
         }
